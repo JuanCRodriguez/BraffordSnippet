@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pytest
+pytest-xdist
+allure-pytest
+filelock
+pytest-percent
+pypika
+pyodbc
